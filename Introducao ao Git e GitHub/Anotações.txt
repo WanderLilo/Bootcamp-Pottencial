@@ -2,13 +2,13 @@ Documentação Git/GitHub
 
 Instalar Git
 
-Criar novo repositorio no GitHub
+Criar novo repositório no GitHub
 -New Repository, podendo informar o Nome Repositório, Descrição, se vai ser privado ou público, se adiciona ReadMe.MD, se adiciona .gitignore, tipo de licença.
 
 Executar comandos do git
 Selecionar a pasta, Git Bash Here
 
-Clonar repositorio existente
+Clonar repositório existente
 git clone [url do repositorio]
 
 Verificar status
@@ -19,10 +19,10 @@ Fazer modificação no repositório local
 -git add .
 -git commit -m "Descricao do alteracao"
 
-Subir alterações para repositorio remoto
+Subir alterações para repositório remoto
 -git push origin main
 
-Puchar alteraçõpes para repositorio local
+Puchar alterações para repositório local
 -git pull origin main
--
+
 
